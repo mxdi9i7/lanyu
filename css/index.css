@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+#body {
+    min-height: 100vh;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+#body nav ul li a{
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: bolder;
+	letter-spacing: 1px;
+	margin: 0px 30px;
+	transition: 0.4s;
+	color: #fff;
+}
+#body nav ul li a:hover {
+	color: #333;
+}
+#body nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 99;
+	background-color: transparent;
+	transition: 0.4s;
+	color: white;
+	box-shadow: none;
+}
+#body nav:hover {
+	background-color: white;
+}
+#body nav:hover a {
+	color: rgb(150,150,150);
+}
+#body .brand-text {
+	position: static;
+	font-size: 2.1rem;
+}
+#body nav img.brand-logo {
+	display: inline;
+}
+#body nav .nav-wrapper {
+  	padding: 0px 50px;
+  	text-align: center;
+}
+#body nav .nav-center {
+	display: inline-block;
+	left: 0;
+	right: 0;
+	margin: 0;
+	float: none;
+}
+#body nav a.brand-logo {
+	font-size: 28px;
+	text-transform: uppercase;
+}
+nav .brand-logo {
+ 	height: 50px;
+ 	margin: 5px 0px;
+}
+#body footer {
+	margin: 0;
+}
+#body footer ul.right {
+	display: inline;
+	margin: 0px auto;
+}
+#body footer ul.right li {
+	display: inline;
+	margin: 0px 10px;
+	transition-duration: 0.5s;
+	font-size: 18px;
+}
+#body footer ul.right li:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+#body #indexContent {
+	max-height: 100vh;
+	width: auto;
+	max-width: 100%;
+	overflow-y: hidden;
+}
+.indexFashionContent {
+	height: 100vh;
+	width: 100%;
+}
+#indexContent .carouselHeader {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 6rem;
+	color: white;
+	font-weight: 800px;
+	text-transform: uppercase;
+	letter-spacing: 20px;
+}
+#indexContent .carouselSubheader {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 1rem;
+	color: white;
+	font-weight: 800px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+.carouselHeaderPosition {
+	position: absolute;
+	top: 35%;
+	left: 50%;
+	transform: translateX(-50%);
+	text-align: center;
+}
+.carouselHeaderPosition a {
+	float: none;
+	position: static;
+	margin: 30px 0px;
+	letter-spacing: 2px;
+	font-weight: 300;
+	font-family: 'Raleway';
+}
+#map {
+	width: 100%;
+	height: 400px;
+}
+#mapOverlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 400px;
+	width: 100%;
+	background-color: rgba(0,0,0,0.4);
+	transition: 0.4s;
+}
+#mapOverlay:hover {
+	background-color: rgba(0,0,0,0);
+
+}
+.contactForm {
+	padding: 50px 200px;
+}
+.contactForm h1 {
+	text-align: center;
+	text-transform: capitalize;
+	letter-spacing: 2px;
+	margin: 50px;
+}
+#contactSubmit {
+	float: right;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 990px) {
+
+}
+@media only screen and (min-device-width: 990px) {
+    img.brand-logo {
+        display: none;
+    }
+}
