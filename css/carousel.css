@@ -1,0 +1,54 @@
+
+.index-carousel {
+	overflow: hidden;
+	position: relative;
+	height: 100%;
+}
+
+.index-carousel .carousel-images {
+	position: absolute;
+	overflow: hidden;
+	height: 100%; width: 100%;
+	top: 0; left: 0;
+	z-index: -1;
+}
+.index-carousel .carousel-images img, .carousel-image, .carousel-head-container  {
+	opacity: 0;
+}
+.carousel-image {
+	display: block;
+	height: 100%; width: 100%;
+	position: absolute;
+	top: 0; left: 0;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+.carousel-image.active{
+	opacity: 1;
+}
+
+/* you probably want to set a special font size for your headers on mobile vs desktop */
+.carousel-headers {
+	display: block;
+	height: 100%; width: 100%;
+	position: relative;
+}
+.carousel-head-container {
+	position: absolute;
+	top: 35%; top: calc(50% - 160px); /* doing 35% default for browsers that don't support calc */
+	width: 100%;
+	overflow: auto;
+	padding: 12px;
+	text-align: center;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.carousel-head-container.active {
+	opacity: 1;
+}

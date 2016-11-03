@@ -30,8 +30,9 @@
 <!-- Compiled and minified JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
 <script src="https://use.fontawesome.com/570079994e.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.0/owl.carousel.min.js"></script>
+<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.0/owl.carousel.min.js"></script> -->
 <script type="text/javascript" src="../js/loader.js"></script>
+<script type="text/javascript" src="../js/carousel.js"></script>
 <script type="text/javascript" src="../js/map.js"></script>
 <script type="text/javascript" src="../js/index.js"></script>
 
