@@ -6,11 +6,11 @@
 }
 
 #body nav ul li a{
-	font-size: 16px;
-	text-transform: uppercase;
+	font-size: 20px;
+	text-transform: capitalize;
 	font-weight: bolder;
 	letter-spacing: 1px;
-	margin: 0px 30px;
+	margin: 20px 30px;
 	transition: 0.4s;
 	color: #fff;
 }
@@ -18,13 +18,14 @@
 	color: #333;
 }
 #body nav {
+	height: 110px;
 	position: fixed;
 	top: 0;
 	left: 0;
 	width: 100%;
 	z-index: 99;
 	background-color: transparent;
-	transition: 0.4s;
+	transition: 0.1s;
 	color: white;
 	box-shadow: none;
 }
@@ -39,7 +40,23 @@
 	position: static;
 	font-size: 2.1rem;
 }
-#body nav img.brand-logo {
+#body nav img.light-logo {
+	display: inline;
+	position: relative;
+	top: -35px;
+	transition: 0.3s;
+}
+#body nav img.dark-logo {
+	display: none;
+	position: relative;
+	top: -15px;
+	margin: 0px 30px;
+	transition: 0.3s;
+}
+#body nav:hover img.light-logo {
+	display: none;
+}
+#body nav:hover img.dark-logo {
 	display: inline;
 }
 #body nav .nav-wrapper {

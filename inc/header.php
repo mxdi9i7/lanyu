@@ -18,20 +18,22 @@
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="hide-on-med-and-down nav-center">
         <li><a href="#">Shop</a></li> 
-        <li><a href="about.php">About</a></li>
+        <li><a href="runway.php">Runway</a></li>
         <li>
           <a id="test" href="index.php" class="brand-logo brand-text">
-            Lanyu
+            <img class="light-logo" src="../img/logo-light.png" height="150">
+            <img class="dark-logo" src="../img/logo.png" height="100">
           </a>
         </li>
-        <li><a href="showroom.php">Showroom</a></li>
-        <li><a href="contact.php">Contact</a></li>
+        <li><a href="visit.php">Visit Us</a></li>
+        <li><a href="about.php">About Us</a></li>
       </ul>
       <ul class="side-nav" id="mobile-demo">
         <li><a href="index.php" class="black-text">Home</a></li>
-        <li><a href="about.php" class="black-text">About</a></li>
-        <li><a href="showroom.php" class="black-text">Showroom</a></li>
-        <li><a href="contact.php" class="black-text">Contact</a></li>
+        <li><a href="#" class="black-text">Shop</a></li>
+        <li><a href="runway.php" class="black-text">Runway</a></li>
+        <li><a href="visit.php" class="black-text">Visit Us</a></li>
+        <li><a href="about.php" class="black-text">About Us</a></li>
       </ul>
     </div>
   </nav>
