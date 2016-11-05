@@ -8,7 +8,7 @@
 	  		<div class="carousel-images">
 	  			<img data-carousel-index="1" src="img/indexCarousel1.jpg">
 	  			<img data-carousel-index="2" src="img/indexCarousel2.jpg">
-	  			<img data-carousel-index="3" src="img/indexCarousel3.jpg">
+	  			<img data-carousel-index="3" src="http://i.imgur.com/LpGYpc4.jpg">
 	  			<img data-carousel-index="4" src="img/indexCarousel4.jpg">
 	  			<img data-carousel-index="4" src="img/indexCarousel5.jpg">
 	  		</div>

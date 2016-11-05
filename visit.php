@@ -4,7 +4,7 @@
 <title>Lanyu | Showroom</title>
 
 <section class="visit-section">
-	<img src="img/visit1.jpg" class="responsive-img">
+	<img src="http://i.imgur.com/DfwzM14.jpg" class="responsive-img">
 	<div class="location-group row container">
 		<div class="col s6 m3 location-card">
 		  <div class="card small">
