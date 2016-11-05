@@ -172,6 +172,9 @@ nav .brand-logo {
 }
 .visit-section {
 	height: 100vh;
+	background-image: url(http://i.imgur.com/DfwzM14.jpg);
+	background-size: cover;
+	overflow: hidden;
 }
 .visit-section .location-group {
 	position: absolute;
@@ -182,6 +185,11 @@ nav .brand-logo {
 }
 .location-card p {
 	font-size: 20px;
+}
+.visit-section .bg-img {
+	height: 100vh;
+	width: auto;
+	overflow: hidden;
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 990px) {
 
