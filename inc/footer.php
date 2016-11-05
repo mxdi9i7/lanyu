@@ -1,5 +1,5 @@
         <footer class="page-footer grey lighten-5">
-          <div class="container">
+          <!-- <div class="container">
             <div class="row">
               <div class="col l6 s12">
                 <h5 class="grey-text text-darken-4">Lanyu</h5>
@@ -15,7 +15,7 @@
                 </ul>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="footer-copyright grey lighten-4">
             <div class="container grey-text text-darken-4">
             © 2016 Lanyu Couture Inc.

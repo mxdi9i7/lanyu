@@ -23,7 +23,7 @@
 	top: 0;
 	left: 0;
 	width: 100%;
-	z-index: 99;
+	z-index: 9999;
 	background-color: transparent;
 	transition: 0.1s;
 	color: white;
@@ -43,7 +43,7 @@
 #body nav img.light-logo {
 	display: inline;
 	position: relative;
-	top: -35px;
+	top: -15px;
 	transition: 0.3s;
 }
 #body nav img.dark-logo {
@@ -160,6 +160,28 @@ nav .brand-logo {
 }
 #contactSubmit {
 	float: right;
+}
+.about-section {
+	padding: 50px 200px;
+}
+.about-section h1 {
+	text-align: center;
+}
+.about-section p {
+	font-size: 1.5rem;
+}
+.visit-section {
+	height: 100vh;
+}
+.visit-section .location-group {
+	position: absolute;
+	top: 300px;
+	left: 50%;
+	height: auto;
+	transform: translateX(-50%);
+}
+.location-card p {
+	font-size: 20px;
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 990px) {
 

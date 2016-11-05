@@ -21,7 +21,7 @@
         <li><a href="runway.php">Runway</a></li>
         <li>
           <a id="test" href="index.php" class="brand-logo brand-text">
-            <img class="light-logo" src="../img/logo-light.png" height="150">
+            <img class="light-logo" src="../img/logo-light.png" height="100">
             <img class="dark-logo" src="../img/logo.png" height="100">
           </a>
         </li>
