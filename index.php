@@ -15,48 +15,48 @@
 	  		<div class="carousel-headers">
 	  			<div class="carousel-head-container" data-carousel-index="1">
 		  			<h1 class="carouselHeader">
-				  		lorem ipsum
+				  		Lanyu Couture
 				  	</h1>
 				  	<h5 class="carouselSubheader">
-				  		Lorem ipsum dolor sit amet, consectetur adipisicing
+				  		Bringing classics from east to west
 				  	</h5>
 				  	<a class="waves-effect waves-gray btn-large white black-text">Shop Now</a>
 				</div>
 		  		<div class="carousel-head-container" data-carousel-index="2">
 		  			<h1 class="carouselHeader">
-				  		lorem ipsum
+				  		Spring/Summer 2017 Collection
 				  	</h1>
 				  	<h5 class="carouselSubheader">
-				  		Lorem ipsum dolor sit amet, consectetur adipisicing
+				  		Check out our Couture Collection 'Gisailes'
 				  	</h5>
-				  	<a class="waves-effect waves-gray btn-large white black-text">Shop Now</a>
+				  	<a href="runway2.php" class="waves-effect waves-gray btn-large white black-text">See More</a>
 				</div>
 				<div class="carousel-head-container" data-carousel-index="3">
 					<h1 class="carouselHeader">
-				  		laborum.
+				  		Visit our showroom
 				  	</h1>
 				  	<h5 class="carouselSubheader">
-				  		or in reprehenderit in voluptate velit esse
+				  		our showroom is on 23rd street, manhattan
 				  	</h5>
-				  	<a class="waves-effect waves-gray btn-large white black-text">Shop Now</a>
+				  	<a href="about.php" class="waves-effect waves-gray btn-large white black-text">Contact us</a>
 				</div>
 				<div class="carousel-head-container" data-carousel-index="4">
 					<h1 class="carouselHeader">
-				  		lorem ipsum 
+				  		Zodiac Flowers
 				  	</h1>
 				  	<h5 class="carouselSubheader">
-				  		Lorem ipsum dolor sit amet, consectetur adipisicing
+				  		See more of our 2017 Spring/Summer Collection.
 				  	</h5>
-				  	<a class="waves-effect waves-gray btn-large white black-text">Shop Now</a>
+				  	<a href="runway3.php" class="waves-effect waves-gray btn-large white black-text">See more</a>
 				</div>
 				<div class="carousel-head-container" data-carousel-index="5">
 					<h1 class="carouselHeader">
-				  		lorem ipsum 3
+				  		Vintage
 				  	</h1>
 				  	<h5 class="carouselSubheader">
-				  		Lorem ipsum dolor sit amet, consectetur adipisicing
+				  		See more of our runway collections.
 				  	</h5>
-				  	<a class="waves-effect waves-gray btn-large white black-text">Shop Now</a>
+				  	<a href="runway4.php" class="waves-effect waves-gray btn-large white black-text">See more</a>
 				</div>
 			</div>
 		</div>
