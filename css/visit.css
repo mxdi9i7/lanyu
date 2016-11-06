@@ -1,0 +1,146 @@
+.visit-section-bg {
+	position: absolute;
+	top: 0; left: 0;
+	height: 65vh; width: 100%;
+	background-image: url(http://i.imgur.com/DfwzM14.jpg);
+	background-position: center;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	z-index: -1;
+}
+
+.location-group-container {
+	background-color: white;
+	box-shadow: 0px 1px 12px -3px black;
+	position: relative;
+	margin-top: 40vh;
+	width: 70%;
+	margin-left: 15%;
+	margin-bottom: 80px;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.location-group-container>span {
+	display: block;
+	padding: 12px 0 0;
+	font-size: 18px;
+	text-align: center;
+}
+
+.location-group-list {
+	list-style-type: none;
+	display: block;
+	overflow: hidden;
+	position: relative;
+}
+.location-group-list li {
+	width: 25%;
+	float: left;
+}
+
+.location-title {
+	height: 210px;
+	cursor: pointer;
+}
+.location-title  .location-title-bg {
+	position: absolute;
+	height: 100%; width: 25%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	z-index: 0;
+	filter: blur(2px);
+	-webkit-filter: blur(2px);
+	-moz-filter: blur(2px);
+	-o-filter: blur(2px);
+	-ms-filter: blur(2px);
+	-webkit-transition: all .6s;
+	   -moz-transition: all .6s;
+	    -ms-transition: all .6s;
+	     -o-transition: all .6s;
+	        transition: all .6s;
+}
+.location-title:hover .location-title-bg {
+	filter: blur(0);
+	-webkit-filter: blur(0);
+	-moz-filter: blur(0);
+	-o-filter: blur(0);
+	-ms-filter: blur(0);
+}
+.location-title button {
+	outline: none; border: none; 
+	background-color: rgba(0,0,0,0.4);
+	color: #CCC;
+	display: block;
+	width: 25%;
+	padding: 12px 0;
+	box-shadow: 0px 0px 12px -4px black;
+	z-index: 2;
+	height: 100%;
+	font-size: 15px;
+	position: absolute;
+	-webkit-transition: all .3s;
+	   -moz-transition: all .3s;
+	    -ms-transition: all .3s;
+	     -o-transition: all .3s;
+	        transition: all .3s;
+}
+.location-title:hover button {
+	color: white;
+	box-shadow: 0px 0px 12px -2px black;
+}
+.location-group-list li .location-details {
+	display: none;
+}
+
+
+.location-details {
+	position: absolute;
+	top: 0; left: 0;
+	height: 100%;
+	width: 100%;
+	overflow: auto;
+	z-index: 3;
+	background-color: white;
+}
+
+.location-details .back-button {
+	color: #333;
+	background-color: transparent; border: none; outline: none;
+	text-decoration: underline;
+	font-size: 18px;
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+.location-details h2 {
+	font-size: 24px;
+	text-align: center;
+	margin-top: 3px;
+}
+
+@media all and (max-width: 600px) {
+	.location-group-list li {
+		width: 50%;
+	}
+	.location-title  .location-title-bg {
+		width: 50%;
+		height: 50%;
+
+	filter: blur(0);
+	-webkit-filter: blur(0);
+	-moz-filter: blur(0);
+	-o-filter: blur(0);
+	-ms-filter: blur(0);
+	}
+	.location-title button {
+		width: 50%;
+		height: 50%;
+		color: white;
+	}
+}
+
+

@@ -23,13 +23,30 @@ $(function() {
 		delayHeaderFade: false, // setting true makes it fade the header out, and then wait for cross-fade to start until new header animates in
 								// 	^-> this is good if your headers and action button is different between headers
 	});
-	$('#dropdown-link, #dropdown1').hover(function() {
-		$('#dropdown1').css('display', 'block');
-	}, function() {
-		$('#dropdown1').css('display', 'none');
-	});
-        
 
-	
+
+	$(window).scroll(function() {
+		if ($(window).scrollTop() > 15 && $(window).width() > 900) {
+			$('#body nav').addClass('is-scrolled');
+		} else {
+			$('#body nav').removeClass('is-scrolled');
+		};
+	});
+
+	$('.lanyu-story-container .open-overlay, .lanyu-story-bg').click(function() {
+		$('.lanyu-story-overlay').fadeIn(900);
+		$('body').css('overflow', 'hidden');
+	});
+	$('.lanyu-story-container .close-overlay').click(function() {
+		$('.lanyu-story-overlay').fadeOut(900);
+		$('body').css('overflow', 'visible');
+	});
+
+	$('.location-title').click(function() {
+		$(this).siblings('.location-details').fadeIn(400);
+	});
+	$('.location-details .back-button').click(function() {
+		$(this).parent().fadeOut(400);
+	});
 
 })

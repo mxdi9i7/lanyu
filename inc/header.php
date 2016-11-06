@@ -10,6 +10,8 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" type="text/css" href="../css/loader.css">
     <link rel="stylesheet" type="text/css" href="../css/carousel.css">
+    <link rel="stylesheet" type="text/css" href="../css/about.css">
+    <link rel="stylesheet" type="text/css" href="../css/visit.css">
 </head>
 <body id="body">
   <nav>
@@ -17,8 +19,8 @@
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="hide-on-med-and-down nav-center">
         <li><a href="#">Shop</a></li> 
-        <li>
-          <a href="#" id="dropdown-link">Runway</a>
+        <li class="dropdown-link">
+          <a href="#">Runway</a>
             <div class="dropdown-button-runway" id="dropdown1">
               <a href="runway1.php">Ready-to-Wear <br> S/S2017</a>
               <a href="runway2.php">Gisailes <br> S/S2017</a>
