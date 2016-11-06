@@ -11,7 +11,7 @@ $(function() {
 		NProgress.done()
 	}, 1500);
 	$(".button-collapse").sideNav();
-	$('.parallax').parallax();
+    $('.parallax').parallax();
 	$('.materialboxed').materialbox();
 	$('input#input_text, textarea#textarea1').characterCounter();
 
@@ -23,7 +23,6 @@ $(function() {
 		delayHeaderFade: false, // setting true makes it fade the header out, and then wait for cross-fade to start until new header animates in
 								// 	^-> this is good if your headers and action button is different between headers
 	});
-
 	$('#dropdown-link, #dropdown1').hover(function() {
 		$('#dropdown1').css('display', 'block');
 	}, function() {

@@ -8,6 +8,7 @@
 #body {
     min-height: 100vh;
     font-family: 'Cormorant Garamond', serif;
+    margin: 0;
 }
 
 #body nav ul li a{
@@ -40,7 +41,7 @@
 	color: rgb(0,0,0);
 }
 #body #dropdown1 {
-	display: block;
+	display: none;
 	z-index: 9999;
 	background-color: rgba(255,255,255,0.7);
 	position: relative;
@@ -218,20 +219,23 @@ nav .brand-logo {
 	overflow: hidden;
 }
 .runway-section {
-	background-color: #333;
-	padding: 200px 50px;
+	background-color: #fff;
+	padding: 50px;
 }
-.collection-tabs a {
-	font-size: 1.5rem;
-	text-align: center;
-	font-family: 'myFirstFont', serif;
-	font-weight: thin;
-	letter-spacing: 1px;
-}
-.collection-tabs .col {
+.runway-section img {
+	z-index: 99;
 	margin: 20px 0px;
 }
-
+.runway-section h1 {
+	margin: 10px 0px;
+}
+.runway-bg {
+	background-image: url(http://i.imgur.com/g3IHNOw.jpg);
+	background-size: cover;
+	height: 600px;
+	overflow: hidden;
+	width: 100%;
+}
 @media only screen and (min-device-width: 320px) and (max-device-width: 990px) {
 
 }
