@@ -7,7 +7,6 @@
   	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   	<link rel="icon" type="img/png" href="../img/logo.png">
-    <!-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.0/assets/owl.carousel.min.css"> -->
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" type="text/css" href="../css/loader.css">
     <link rel="stylesheet" type="text/css" href="../css/carousel.css">
@@ -18,11 +17,20 @@
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="hide-on-med-and-down nav-center">
         <li><a href="#">Shop</a></li> 
-        <li><a href="runway.php">Runway</a></li>
+        <li>
+          <a href="#" id="dropdown-link">Runway</a>
+            <div class="dropdown-button-runway" id="dropdown1">
+              <a href="runway.php">SS2016</a>
+              <a href="#">SS2016</a>
+              <a href="#">SS2015</a>
+              <a href="#">SS2014</a>
+            </div>
+        </li>
+
         <li>
           <a id="test" href="index.php" class="brand-logo brand-text">
             <img class="light-logo" src="../img/logo-light.png" height="100">
-            <img class="dark-logo" src="../img/logo.png" height="100">
+            <img class="dark-logo" src="../img/logo-black.png" height="100">
           </a>
         </li>
         <li><a href="visit.php">Visit Us</a></li>

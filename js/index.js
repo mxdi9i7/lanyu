@@ -12,17 +12,8 @@ $(function() {
 	}, 1500);
 	$(".button-collapse").sideNav();
 	$('.parallax').parallax();
+	$('.materialboxed').materialbox();
 	$('input#input_text, textarea#textarea1').characterCounter();
-	// $(".owl-carousel").owlCarousel({
-	// 	loop: true,
-	// 	nav: false,
-	// 	items:1,
-	// 	autoplay: true,
-	// 	autoplayTimeout: 5000,
-	// 	autoplayHoverPause: false,
-	// 	animateOut: 'fadeOut',
-	// 	animateIn: 'fadeIn',
-	// 	});
 
 
 	$('.index-carousel').carousel({
@@ -32,6 +23,13 @@ $(function() {
 		delayHeaderFade: false, // setting true makes it fade the header out, and then wait for cross-fade to start until new header animates in
 								// 	^-> this is good if your headers and action button is different between headers
 	});
+
+	$('#dropdown-link, #dropdown1').hover(function() {
+		$('#dropdown1').css('display', 'block');
+	}, function() {
+		$('#dropdown1').css('display', 'none');
+	});
+        
 
 	
 

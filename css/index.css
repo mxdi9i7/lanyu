@@ -1,21 +1,24 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
 @import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@font-face {
+    font-family: myFirstFont;
+    src: url(font.ttf);
+}
 #body {
     min-height: 100vh;
     font-family: 'Cormorant Garamond', serif;
 }
 
 #body nav ul li a{
-	font-size: 20px;
+	font-size: 22px;
 	text-transform: capitalize;
-	font-weight: bolder;
+	font-weight: 300;
 	letter-spacing: 1px;
-	margin: 20px 30px;
+	padding: 25px 50px;
 	transition: 0.4s;
 	color: #fff;
-}
-#body nav ul li a:hover {
-	color: #333;
+	font-family: 'Open Sans';
 }
 #body nav {
 	height: 110px;
@@ -30,11 +33,34 @@
 	box-shadow: none;
 }
 #body nav:hover {
-	background-color: white;
+	background-color: rgba(255,255,255,0.7);
 	box-shadow: rgba(0, 0, 0, 0.156863) 0px 2px 5px 0px, rgba(0, 0, 0, 0.117647) 0px 2px 10px 0px;
 }
 #body nav:hover a {
-	color: rgb(150,150,150);
+	color: rgb(0,0,0);
+}
+#body #dropdown1 {
+	display: block;
+	z-index: 9999;
+	background-color: rgba(255,255,255,0.7);
+	position: relative;
+	top: -3px;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	color: #333;
+}
+#body #dropdown1 a {
+	color: #333;
+	margin: 0;
+	font-size: 16px;
+	padding: 6px 10px;
+	text-decoration: none;
+	display: block;
+	transition: 0.5s;
+	line-height: 36px;
+}
+#body #dropdown1 a:hover {
+	background-color: #fff;
 }
 #body .brand-text {
 	position: static;
@@ -43,13 +69,13 @@
 #body nav img.light-logo {
 	display: inline;
 	position: relative;
-	top: -15px;
+	top: -25px;
 	transition: 0.3s;
 }
 #body nav img.dark-logo {
 	display: none;
 	position: relative;
-	top: -15px;
+	top: -25px;
 	margin: 0px 30px;
 	transition: 0.3s;
 }
@@ -162,13 +188,13 @@ nav .brand-logo {
 	float: right;
 }
 .about-section {
-	padding: 50px 200px;
+	padding: 50px 10%;
 }
 .about-section h1 {
 	text-align: center;
 }
 .about-section p {
-	font-size: 1.5rem;
+	font-size: 2rem;
 }
 .visit-section {
 	height: 100vh;
@@ -191,6 +217,21 @@ nav .brand-logo {
 	width: auto;
 	overflow: hidden;
 }
+.runway-section {
+	background-color: #333;
+	padding: 200px 50px;
+}
+.collection-tabs a {
+	font-size: 1.5rem;
+	text-align: center;
+	font-family: 'myFirstFont', serif;
+	font-weight: thin;
+	letter-spacing: 1px;
+}
+.collection-tabs .col {
+	margin: 20px 0px;
+}
+
 @media only screen and (min-device-width: 320px) and (max-device-width: 990px) {
 
 }
