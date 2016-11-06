@@ -1,0 +1,167 @@
+.lanyu-story-container .lanyu-story-overlay {
+	display: none;
+}
+.lanyu-story-container.expanded .lanyu-story-overlay {
+	display: block;
+}
+
+.lanyu-story-container {
+	position: relative;
+	width: 100%;
+	height: 360px;
+}
+.lanyu-story-bg {
+	position: absolute;
+	top: 0; left: 0;
+	cursor: pointer;
+	height: 100%; width: 100%;
+	
+	background-position: top center;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-transition: all .5s;
+	   -moz-transition: all .5s;
+	    -ms-transition: all .5s;
+	     -o-transition: all .5s;
+	        transition: all .5s;
+}
+.lanyu-story-container:hover .lanyu-story-bg{
+	-webkit-filter:blur(3px);
+	-moz-filter:blur(3px);
+	-o-filter:blur(3px);
+	-ms-filter:blur(3px);
+	filter:blur(3px);
+}
+.lanyu-story-container>button {
+	display: block;
+	position: absolute;
+	top: 0; left: 0;
+	height: 100%; width: 60%;
+	border: none; outline: none;
+	background-color: transparent;
+	color: #F7F7F7;
+	text-shadow: 0 1px 1px hsla(0,0%,0%,.25);
+
+	font-size: 42px;
+	text-align: center;
+	padding: 0 24px;
+
+	-webkit-transition: all .24s;
+	   -moz-transition: all .24s;
+	    -ms-transition: all .24s;
+	     -o-transition: all .24s;
+	        transition: all .24s;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.lanyu-story-container:hover button {
+	color: white;
+	text-shadow: 0 1px 6px hsla(0,0%,0%,.25);
+}
+@media all and (max-width: 900px) {
+	.lanyu-story-container button {
+		width: 100%;
+	}
+}
+
+
+
+.lanyu-story-overlay {
+	position: fixed;
+	top: 2%; left: 1%;
+	height: 96%; width: 98%;
+	padding: 48px 60px;
+	z-index: 999;
+	background-color: white;
+	border: 1px dashed #CCC;
+	overflow: auto;
+
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+.lanyu-story-overlay button.close-overlay {
+	outline: none;
+	border: none;
+	padding: 0 36px;
+	height: 60px; line-height: 60px;
+	color: red;
+	cursor: pointer;
+	background-color: transparent;
+	font-size: 48px;
+	position: fixed;
+	top: 0; right: 0;
+}
+
+.lanyu-story-overlay div {
+	width: 100%;
+	height: 300px;
+	background-image: url('http://i.imgur.com/zzlVxAI.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-position: top center;
+	margin-top: 30px;
+}
+.lanyu-story-overlay p {
+	font-size: 1.5rem!important;
+}
+.lanyu-story-overlay p b{
+	font-weight: normal;
+	color: #999;
+	font-style: italic;
+}
+@media all and (max-width: 600px) {
+	.lanyu-story-overlay {
+		padding: 24px;
+	}
+	.lanyu-story-overlay p {
+		font-style: 1.25rem!important;
+	}
+	.lanyu-story-overlay div  {
+		height: 150px;
+	}
+}
+
+
+
+hr.form-seperator {
+	width: 50%;
+	display: block;
+	position: relative;
+	margin: 0 auto;
+	border: none; outline: none;
+	height: 1px;
+	background-color: #DEDEDE;
+}
+
+
+
+.contactForm {
+	padding: 24px 200px 50px;
+}
+.contactForm h1 {
+	text-align: center;
+	text-transform: capitalize;
+	letter-spacing: 2px;
+	margin: 0 50px 50px;
+}
+#contactSubmit {
+	float: right;
+}
+.about-section {
+	padding: 50px 10%;
+}
+.about-section h1 {
+	text-align: center;
+}
+.about-section p {
+	font-size: 2rem;
+}
