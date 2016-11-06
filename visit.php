@@ -5,6 +5,7 @@
 
 <section class="visit-section">
 	<div class="visit-section-bg"></div>
+	<div class="margin-breaker"></div>
 	<div class="location-group-container">
 		<span>Select a location for details</span>
 		<ul class="location-group-list">
