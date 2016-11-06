@@ -11,6 +11,7 @@
     <link rel="stylesheet" type="text/css" href="../css/loader.css">
     <link rel="stylesheet" type="text/css" href="../css/carousel.css">
     <link rel="stylesheet" type="text/css" href="../css/about.css">
+    <link rel="stylesheet" type="text/css" href="../css/visit.css">
 </head>
 <body id="body">
   <nav>

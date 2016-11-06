@@ -203,27 +203,6 @@ nav .brand-logo {
 }*/
 
 
-.visit-section {
-	height: 100vh;
-	background-image: url(http://i.imgur.com/DfwzM14.jpg);
-	background-size: cover;
-	overflow: hidden;
-}
-.visit-section .location-group {
-	position: absolute;
-	top: 300px;
-	left: 50%;
-	height: auto;
-	transform: translateX(-50%);
-}
-.location-card p {
-	font-size: 20px;
-}
-.visit-section .bg-img {
-	height: 100vh;
-	width: auto;
-	overflow: hidden;
-}
 .runway-section {
 	background-color: #fff;
 	padding: 50px;

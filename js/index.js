@@ -42,4 +42,11 @@ $(function() {
 		$('body').css('overflow', 'visible');
 	});
 
+	$('.location-title').click(function() {
+		$(this).siblings('.location-details').fadeIn(400);
+	});
+	$('.location-details .back-button').click(function() {
+		$(this).parent().fadeOut(400);
+	});
+
 })
