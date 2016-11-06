@@ -5,6 +5,10 @@
     font-family: myFirstFont;
     src: url(font.ttf);
 }
+
+.margin-breaker {
+	width: 1px; height: 1px;	
+}
 #body {
     min-height: 100vh;
     font-family: 'Cormorant Garamond', serif;
