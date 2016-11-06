@@ -62,6 +62,9 @@
 #body #dropdown1 a:hover {
 	background-color: #fff;
 }
+#body #mobile-demo a {
+	padding: 0px;
+}
 #body .brand-text {
 	position: static;
 	font-size: 2.1rem;
