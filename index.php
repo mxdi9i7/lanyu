@@ -24,7 +24,7 @@
 				</div>
 		  		<div class="carousel-head-container" data-carousel-index="2">
 		  			<h1 class="carouselHeader">
-				  		Spring/Summer 2017 Collection
+				  		Spring/Summer 2017
 				  	</h1>
 				  	<h5 class="carouselSubheader">
 				  		Check out our Couture Collection 'Gisailes'
