@@ -19,7 +19,6 @@
 	padding: 25px 50px;
 	transition: 0.4s;
 	color: #fff;
-	font-family: 'Open Sans';
 }
 #body nav {
 	height: 110px;
@@ -27,14 +26,14 @@
 	top: 0;
 	left: 0;
 	width: 100%;
-	z-index: 9999;
+	z-index: 99;
 	background-color: transparent;
 	transition: 0.1s;
 	color: white;
 	box-shadow: none;
 }
 #body nav:hover {
-	background-color: rgba(255,255,255,0.7);
+	background-color: rgba(255,255,255,0.9);
 	box-shadow: rgba(0, 0, 0, 0.156863) 0px 2px 5px 0px, rgba(0, 0, 0, 0.117647) 0px 2px 10px 0px;
 }
 #body nav:hover a {
@@ -43,7 +42,7 @@
 #body #dropdown1 {
 	display: none;
 	z-index: 9999;
-	background-color: rgba(255,255,255,0.7);
+	background-color: rgba(255,255,255,0.9);
 	position: relative;
 	top: -3px;
 	min-width: 160px;
@@ -107,6 +106,7 @@ nav .brand-logo {
 }
 #body footer {
 	margin: 0;
+	padding: 0;
 }
 #body footer ul.right {
 	display: inline;

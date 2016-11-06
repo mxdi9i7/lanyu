@@ -6,7 +6,7 @@
       <div class="parallax"><img src="http://i.imgur.com/0FKpIjI.jpg"></div>
     </div>
 <section class="runway-section">
-	<h1>Spring Garden</h1>
+	<h1>Ready-to-Wear, New York</h1>
 	<h4> Spring/Summer 2017</h4>
 	<div class="row collection-grid">
     <div class="col s4 m3 l2">

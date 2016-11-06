@@ -6,11 +6,11 @@
 <section id="indexContent">
 	  	<div class="index-carousel">
 	  		<div class="carousel-images">
-	  			<img data-carousel-index="1" src="img/indexCarousel1.jpg">
-	  			<img data-carousel-index="2" src="img/indexCarousel2.jpg">
-	  			<img data-carousel-index="3" src="http://i.imgur.com/LpGYpc4.jpg">
-	  			<img data-carousel-index="4" src="img/indexCarousel4.jpg">
-	  			<img data-carousel-index="4" src="img/indexCarousel5.jpg">
+	  			<img data-carousel-index="1" src="http://i.imgur.com/Fl1dbB5.jpg">
+	  			<img data-carousel-index="2" src="http://i.imgur.com/qxdDdRI.jpg">
+	  			<img data-carousel-index="3" src="http://i.imgur.com/zzlVxAI.jpg">
+	  			<img data-carousel-index="4" src="http://i.imgur.com/LpGYpc4.jpg">
+	  			<img data-carousel-index="5" src="http://i.imgur.com/182kmuY.jpg">
 	  		</div>
 	  		<div class="carousel-headers">
 	  			<div class="carousel-head-container" data-carousel-index="1">

@@ -5545,6 +5545,7 @@ button.btn-floating {
   cursor: zoom-in;
   position: relative;
   transition: opacity .4s;
+  z-index: 999;
 }
 
 .materialboxed:hover {
@@ -5566,7 +5567,7 @@ button.btn-floating {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #292929;
+  background-color: #333;
   z-index: 1000;
   will-change: opacity;
 }

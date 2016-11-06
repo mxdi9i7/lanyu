@@ -6,8 +6,8 @@
       <div class="parallax"><img src="http://i.imgur.com/0FKpIjI.jpg"></div>
     </div>
 <section class="runway-section">
-    <h1>Couture Collection 'Gisailes', Paris</h1>
-    <h4> Spring/Summer 2017</h4>
+	<h1>Bridal Collection 'Dream', Shanghai</h1>
+	<h4> Fall/Winter 2016</h4>
 	<div class="row collection-grid">
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/XoSfMHb.jpg" class="responsive-img materialboxed" width="300">
