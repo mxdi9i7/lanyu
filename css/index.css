@@ -212,7 +212,7 @@ nav .brand-logo {
 	padding: 50px;
 }
 .runway-section img {
-	z-index: 99;
+	z-index: 0;
 	margin: 20px 0px;
 }
 .runway-section h1 {
