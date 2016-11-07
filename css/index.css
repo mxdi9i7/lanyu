@@ -13,6 +13,7 @@
     min-height: 100vh;
     font-family: 'Cormorant Garamond', serif;
     margin: 0;
+    font-size: 13px;
 }
 
 #body nav ul li a{
@@ -147,11 +148,11 @@ nav .brand-logo {
 #indexContent .carouselHeader {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
-	font-size: 6rem;
+	font-size: 4rem;
 	color: white;
 	font-weight: 800px;
 	text-transform: uppercase;
-	letter-spacing: 20px;
+	letter-spacing: 10px;
 }
 #indexContent .carouselSubheader {
 	font-family: 'Raleway', sans-serif;

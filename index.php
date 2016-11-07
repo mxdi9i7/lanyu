@@ -17,45 +17,30 @@
 		  			<h1 class="carouselHeader">
 				  		Lanyu Couture
 				  	</h1>
-				  	<h5 class="carouselSubheader">
-				  		Bringing classics from east to west
-				  	</h5>
 				  	<a class="waves-effect waves-gray btn-large white black-text">Shop Now</a>
 				</div>
 		  		<div class="carousel-head-container" data-carousel-index="2">
 		  			<h1 class="carouselHeader">
-				  		Spring/Summer 2017
+				  		Ready to Wear Spring/Summer 2017
 				  	</h1>
-				  	<h5 class="carouselSubheader">
-				  		Check out our Couture Collection 'Gisailes'
-				  	</h5>
 				  	<a href="runway2.php" class="waves-effect waves-gray btn-large white black-text">See More</a>
 				</div>
 				<div class="carousel-head-container" data-carousel-index="3">
 					<h1 class="carouselHeader">
-				  		Visit our showroom
+				  		Orchid Bridal Spring/Summer 2016
 				  	</h1>
-				  	<h5 class="carouselSubheader">
-				  		our showroom is on 23rd street, manhattan
-				  	</h5>
 				  	<a href="about.php" class="waves-effect waves-gray btn-large white black-text">Contact us</a>
 				</div>
 				<div class="carousel-head-container" data-carousel-index="4">
 					<h1 class="carouselHeader">
-				  		Zodiac Flowers
+				  		Dream Bridal Fall/Winter 2016
 				  	</h1>
-				  	<h5 class="carouselSubheader">
-				  		See more of our 2017 Spring/Summer Collection.
-				  	</h5>
 				  	<a href="runway3.php" class="waves-effect waves-gray btn-large white black-text">See more</a>
 				</div>
 				<div class="carousel-head-container" data-carousel-index="5">
 					<h1 class="carouselHeader">
-				  		Vintage
+				  		Orchid Bridal Spring/Summer 2016
 				  	</h1>
-				  	<h5 class="carouselSubheader">
-				  		See more of our runway collections.
-				  	</h5>
 				  	<a href="runway4.php" class="waves-effect waves-gray btn-large white black-text">See more</a>
 				</div>
 			</div>
