@@ -34,8 +34,8 @@
 
         <li>
           <a id="test" href="index.php" class="brand-logo brand-text">
-            <img class="light-logo" src="../img/logo-light.png" height="100">
-            <img class="dark-logo" src="../img/logo-black.png" height="100">
+            <img class="light-logo" src="http://i.imgur.com/D2GUY4E.png" height="100">
+            <img class="dark-logo" src="http://i.imgur.com/8Ll77Mt.png" height="100">
           </a>
         </li>
         <li><a href="visit.php">Visit Us</a></li>
