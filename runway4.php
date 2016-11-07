@@ -23,10 +23,10 @@
     </div>
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/vlTKvlX.jpg" class="responsive-img materialboxed" width="300">
-    </div>
+    </div><!-- 
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/xjdBCoV.jpg" class="responsive-img materialboxed" width="300">
-    </div>
+    </div> -->
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/PvlUS6Z.jpg" class="responsive-img materialboxed" width="300">
     </div>

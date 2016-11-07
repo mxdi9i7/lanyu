@@ -12,9 +12,9 @@
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/l8YjksX.jpg" class="responsive-img materialboxed" width="300">
     </div>
-    <div class="col s4 m3 l2">
+<!--     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/iTJPBiu.jpg" class="responsive-img materialboxed" width="300">
-    </div>
+    </div> -->
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/3l0e33h.jpg" class="responsive-img materialboxed" width="300">
     </div>
@@ -27,7 +27,6 @@
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/H4fEhAg.jpg" class="responsive-img materialboxed" width="300">
     </div>
-    <div class="divider"></div>
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/RriCh3F.jpg" class="responsive-img materialboxed" width="300">
     </div>
