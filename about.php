@@ -10,7 +10,7 @@
 <section class="about-section">
   <h1>Over a <u>decade</u> of excellence</h1>
   <div class="lanyu-story-container">
-    <div class="lanyu-story-bg" style="background-image:url('http://i.imgur.com/LpGYpc4.jpg')"></div>
+    <div class="lanyu-story-bg" style="background-image:url('http://i.imgur.com/TnaDPjs.jpg')"></div>
     <button class="open-overlay">Read The Lanyu Story<br />&rarr;</button>
     <div class="lanyu-story-overlay">
       <button class="close-overlay">&times;</button>
