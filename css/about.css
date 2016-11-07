@@ -45,7 +45,7 @@
 	color: #F7F7F7;
 	text-shadow: 3px 3px 3px hsla(0,0%,0%,.25);
 
-	font-size: 42px;
+	font-size: 26px;
 	text-align: center;
 	padding: 0 24px;
 
@@ -157,6 +157,7 @@ hr.form-seperator {
 	text-transform: capitalize;
 	letter-spacing: 2px;
 	margin: 0 50px 50px;
+	font-size: 36px;
 }
 #contactSubmit {
 	float: right;
@@ -166,6 +167,7 @@ hr.form-seperator {
 }
 .about-section h1 {
 	text-align: center;
+	font-size: 36px;
 }
 .about-section p {
 	font-size: 2rem;

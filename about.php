@@ -5,7 +5,6 @@
 
 <div id="map"></div>
 <div id="mapOverlay">
-  <h1>Based in New York City</h1>
 </div>
 <section class="about-section">
   <h1>Over a <u>decade</u> of excellence</h1>

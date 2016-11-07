@@ -21,25 +21,25 @@
 				</div>
 		  		<div class="carousel-head-container" data-carousel-index="2">
 		  			<h1 class="carouselHeader">
-				  		Ready to Wear Spring/Summer 2017
+				  		Ready to Wear <br>Spring/Summer 2017
 				  	</h1>
 				  	<a href="runway2.php" class="waves-effect waves-gray btn-large white black-text">See More</a>
 				</div>
 				<div class="carousel-head-container" data-carousel-index="3">
 					<h1 class="carouselHeader">
-				  		Orchid Bridal Spring/Summer 2016
+				  		Orchid Bridal <br>Spring/Summer 2016
 				  	</h1>
-				  	<a href="about.php" class="waves-effect waves-gray btn-large white black-text">Contact us</a>
+				  	<a href="runway4.php" class="waves-effect waves-gray btn-large white black-text">See more</a>
 				</div>
 				<div class="carousel-head-container" data-carousel-index="4">
 					<h1 class="carouselHeader">
-				  		Dream Bridal Fall/Winter 2016
+				  		Dream Bridal <br>Fall/Winter 2016
 				  	</h1>
 				  	<a href="runway3.php" class="waves-effect waves-gray btn-large white black-text">See more</a>
 				</div>
 				<div class="carousel-head-container" data-carousel-index="5">
 					<h1 class="carouselHeader">
-				  		Orchid Bridal Spring/Summer 2016
+				  		Orchid Bridal <br> Spring/Summer 2016
 				  	</h1>
 				  	<a href="runway4.php" class="waves-effect waves-gray btn-large white black-text">See more</a>
 				</div>
