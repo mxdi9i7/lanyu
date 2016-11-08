@@ -16,11 +16,11 @@
 }
 
 #body nav ul li a{
-	font-size: 22px;
+	font-size: 16px;
 	text-transform: capitalize;
 	font-weight: 300;
 	letter-spacing: 1px;
-	padding: 25px 45px;
+	padding: 25px 55px;
 	transition: 0.4s;
 	color: #fff;
 }
@@ -253,6 +253,10 @@ nav .brand-logo {
 }
 .runway-section h1 {
 	margin: 10px 0px;
+	font-size: 2.6rem;
+}
+.runway-section h4 {
+	font-size: 2rem;
 }
 .runway-bg {
 	background-image: url(http://i.imgur.com/g3IHNOw.jpg);
