@@ -2,9 +2,9 @@
 	include('inc/header.php');
 ?>
 <title>Lanyu | About</title>
-    <div class="parallax-container">
-      <div class="parallax"><img src="http://i.imgur.com/0FKpIjI.jpg"></div>
-    </div>
+<?php 
+    include('inc/parallax.php');
+ ?>
 <section class="runway-section">
     <h1>Couture Collection 'Gisailes', Paris</h1>
     <h4> Spring/Summer 2017</h4>
