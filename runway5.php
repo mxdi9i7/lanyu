@@ -18,12 +18,12 @@
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/MYF2T8G.jpg" class="responsive-img materialboxed" width="300">
     </div>
-    <div class="col s4 m3 l2">
+<!--     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/t1A49YZ.jpg" class="responsive-img materialboxed" width="300">
-    </div>
-    <div class="col s4 m3 l2">
+    </div> -->
+<!--     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/Huo3xth.jpg" class="responsive-img materialboxed" width="300">
-    </div>
+    </div>  -->
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/hqZbcrA.jpg" class="responsive-img materialboxed" width="300">
     </div>

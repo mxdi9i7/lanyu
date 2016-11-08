@@ -32,7 +32,7 @@
 	width: 100%;
 	z-index: 99;
 	background-color: transparent;
-	transition: 0.1s;
+	transition: 0.8s;
 	color: white;
 	box-shadow: none;
 }
@@ -44,11 +44,11 @@
 	color: rgb(0,0,0);
 }
 #body #dropdown1 {
-	-webkit-animation: fadein 0.5s; /* Safari and Chrome */
-    -moz-animation: fadein 0.5s; /* Firefox */
-    -ms-animation: fadein 0.5s; /* Internet Explorer */
-    -o-animation: fadein 0.5s; /* Opera */
-    animation: fadein 0.5s;
+	-webkit-animation: fadein 0.8s; /* Safari and Chrome */
+    -moz-animation: fadein 0.8s; /* Firefox */
+    -ms-animation: fadein 0.8s; /* Internet Explorer */
+    -o-animation: fadein 0.8s; /* Opera */
+    animation: fadein 0.8s;
 	display: none;
 	z-index: 9999;
 	background-color: rgba(255,255,255,0.9);
@@ -121,7 +121,6 @@
 	display: none;
 	position: relative;
 	top: -25px;
-	margin: 0px 30px;
 	transition: 0.3s;
 }
 #body nav:hover img.light-logo, #body nav.is-scrolled img.light-logo {
@@ -181,9 +180,9 @@ nav .brand-logo {
 #indexContent .carouselHeader {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
-	font-size: 4rem;
+	font-size: 3rem;
 	color: white;
-	font-weight: 800px;
+	font-weight: 800;
 	text-transform: uppercase;
 	letter-spacing: 10px;
 }
@@ -195,6 +194,9 @@ nav .brand-logo {
 	font-weight: 800px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+}
+.indexContent .btn-large {
+	font-size: 24px;
 }
 .index-carousel a {
 	float: none;
