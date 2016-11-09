@@ -18,7 +18,6 @@
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/MYF2T8G.jpg" class="responsive-img materialboxed" width="300">
     </div>
-
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/hqZbcrA.jpg" class="responsive-img materialboxed" width="300">
     </div>
@@ -42,9 +41,6 @@
     </div>
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/m3GzE9s.jpg" class="responsive-img materialboxed" width="300">
-    </div>
-    <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/t1A49YZ.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/cwNmHX4.jpg" class="responsive-img materialboxed" width="300">
