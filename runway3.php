@@ -10,37 +10,37 @@
     <h4> Spring/Summer 2017</h4>
 	<div class="row collection-grid animated fadeIn">
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/XoSfMHb.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/yogSm6C.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/cxQHtGE.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/aMxCwJA.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/cKMJjlf.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/HBym9yw.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/4F46Gzg.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/5rYku0n.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/IgnlnCO.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/6H3Mrak.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/bO8nQMD.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/nKoXMkR.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/g2swT7e.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/QO0SOVE.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/zC3fast.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/UDZKPC0.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/jE27pcL.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/2bFdbmI.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/TdADULX.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/AjHsMy0.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/1FZOwKM.jpg" class="responsive-img materialboxed" width="300">
+        <img src="http://i.imgur.com/pK7X5JZ.jpg" class="responsive-img materialboxed" width="300">
     </div>
 </div>
 	
