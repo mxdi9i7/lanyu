@@ -8,7 +8,7 @@
 <section class="runway-section">
     <h1>Bridal Collection, 'Zodiac Constellations', New York</h1>
     <h4> Spring/Summer 2017</h4>
-	<div class="row collection-grid">
+	<div class="row collection-grid animated fadeIn">
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/XoSfMHb.jpg" class="responsive-img materialboxed" width="300">
     </div>

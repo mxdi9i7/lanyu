@@ -5,7 +5,7 @@
 <?php 
     include('inc/parallax.php');
  ?>
-<section class="runway-section">
+<section class="runway-section animated fadeIn animated fadeIn">
 	<h1>Ready-to-Wear, New York</h1>
 	<h4> Spring/Summer 2017</h4>
 	<div class="row collection-grid">

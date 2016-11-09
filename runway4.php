@@ -8,7 +8,7 @@
 <section class="runway-section">
     <h1>Couture Collection 'Vintage', Paris</h1>
     <h4>Fall/Winter 2016</h4>
-	<div class="row collection-grid">
+	<div class="row collection-grid animated fadeIn">
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/OFVZn8W.jpg" class="responsive-img materialboxed" width="300">
     </div>
@@ -23,10 +23,7 @@
     </div>
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/vlTKvlX.jpg" class="responsive-img materialboxed" width="300">
-    </div><!-- 
-    <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/xjdBCoV.jpg" class="responsive-img materialboxed" width="300">
-    </div> -->
+    </div>
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/PvlUS6Z.jpg" class="responsive-img materialboxed" width="300">
     </div>
