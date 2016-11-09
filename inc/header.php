@@ -15,7 +15,7 @@
     <link rel="stylesheet" type="text/css" href="../css/about.css">
     <link rel="stylesheet" type="text/css" href="../css/visit.css">
 </head>
-<body id="body">
+<body id="body" class="animated fadeIn">
   <nav>
     <div class="nav-wrapper">
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
