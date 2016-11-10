@@ -3,8 +3,11 @@
 ?>
 <title>Lanyu | Contact</title>
 
-<div id="map"></div>
-<div id="mapOverlay">
+    <div class="parallax-container">
+      <div class="parallax"><img src="http://i.imgur.com/xN1Jujw.jpg"></div>
+    </div>
+<!-- <div id="map"></div>
+<div id="mapOverlay"> -->
 </div>
 <section class="about-section">
   <h1>Over a <u>decade</u> of excellence</h1>
