@@ -151,6 +151,9 @@ nav .brand-logo {
 #body footer {
 	margin: 0;
 	padding: 0;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
 }
 #body footer ul.right {
 	display: inline;
