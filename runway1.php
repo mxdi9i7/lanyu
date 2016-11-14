@@ -21,16 +21,16 @@
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/4F46Gzg.jpg" class="responsive-img materialboxed" width="300">
     </div>
-    <div class="col s4 m3 l2">
+ <!--    <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/IgnlnCO.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/bO8nQMD.jpg" class="responsive-img materialboxed" width="300">
-    </div>
+    </div> -->
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/g2swT7e.jpg" class="responsive-img materialboxed" width="300">
     </div>
-    <div class="col s4 m3 l2">
+<!--     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/zC3fast.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
@@ -38,7 +38,7 @@
     </div>
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/TdADULX.jpg" class="responsive-img materialboxed" width="300">
-    </div>
+    </div> -->
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/1FZOwKM.jpg" class="responsive-img materialboxed" width="300">
     </div>

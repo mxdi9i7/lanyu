@@ -47,13 +47,13 @@
 			</li>
 			<li>
 				<div class="location-title">
-					<div class="location-title-bg" style="background-image:url('http://i.imgur.com/qxzS0DQ.jpg')"></div>
-					<button class="details-button">Paris</button>
+					<div class="location-title-bg" style="background-image:url('http://i.imgur.com/XXC8LWK.jpg')"></div>
+					<button class="details-button">Los Angeles</button>
 				</div>
 				<div class="location-details">
 					<button class="back-button">back</button>
-					<h2>Paris</h2>
-			    	<p class="center">16 West 23rd Street, 4F <br> New York<br> NY 10010</p>
+					<h2>Los Angeles</h2>
+			    	<p class="center">600 N Rosemead Blvd. Suite 204 <br>Pasadena<br> CA 91107</p>
 		      		<p class="center">Email: info@lanyu.com</p>
 				</div>
 			</li>
