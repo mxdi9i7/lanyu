@@ -5,9 +5,16 @@
 <?php 
     include('inc/parallax.php');
  ?>
+     <?php 
+    include ('inc/preloader.php');
+  ?>
 <section class="runway-section">
     <h1>Bridal Collection, 'Zodiac Constellations', New York</h1>
     <h4> Spring/Summer 2017</h4>
+    <div class="runway-buttons">
+        <a href="runway2.php" class="btn btn-large waves-effect waves-light white black-text">Previous</a>
+        <a href="runway4.php" class="btn btn-large waves-effect waves-light white black-text right">Next</a>
+    </div>
 	<div class="row collection-grid animated fadeIn">
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/yogSm6C.jpg" class="responsive-img materialboxed" width="300">

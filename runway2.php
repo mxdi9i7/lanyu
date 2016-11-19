@@ -5,9 +5,17 @@
 <?php 
     include('inc/parallax.php');
  ?>
+     <?php 
+    include ('inc/preloader.php');
+  ?>
 <section class="runway-section">
+
     <h1>Couture Collection 'Gisailes', Paris</h1>
     <h4> Spring/Summer 2017</h4>
+    <div class="runway-buttons">
+        <a href="runway1.php" class="btn btn-large waves-effect waves-light white black-text">Previous</a>
+        <a href="runway3.php" class="btn btn-large waves-effect waves-light white black-text right">Next</a>
+    </div>
 	<div class="row collection-grid  animated fadeIn">
 
     <div class="col s4 m3 l2">

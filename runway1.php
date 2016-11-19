@@ -1,13 +1,23 @@
+
 <?php
 	include('inc/header.php');
 ?>
+
 <title>Lanyu | About</title>
 <?php 
     include('inc/parallax.php');
  ?>
+     <?php 
+    include ('inc/preloader.php');
+  ?>
 <section class="runway-section animated fadeIn animated fadeIn">
-	<h1>Ready-to-Wear, New York</h1>
+
+	<h1>Ready-to-wear, New York</h1>
 	<h4> Spring/Summer 2017</h4>
+    <div class="runway-buttons">
+        <a href="runway5.php" class="btn btn-large waves-effect waves-light white black-text">Previous</a>
+        <a href="runway2.php" class="btn btn-large waves-effect waves-light white black-text right">Next</a>
+    </div>
 	<div class="row collection-grid">
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/XoSfMHb.jpg" class="responsive-img materialboxed" width="300">
@@ -91,6 +101,7 @@
 </div>
 	
 </section>
+
 
 
 <?php

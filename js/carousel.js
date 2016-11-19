@@ -25,6 +25,7 @@
 			}).length;
 
 			var CurrentIndex = 1;
+		
 			setInterval(function() {
 				var CurrentHeader = $Headers.find('.carousel-head-container[data-carousel-index="'+CurrentIndex+'"]'),
 					CurrentImage = $Images.find('.carousel-image[data-carousel-index="'+CurrentIndex+'"]');
@@ -48,7 +49,7 @@
 					
 					CurrentImage.removeClass('active');
 					NextHeader.addClass('active');
-
+				
 				}, TransitionDuration*(options.crossFadeMultiplier || 0.25)*1000); // is currently in seconds; we want to make it in MS and only a fraction the time
 
 			}, Period);

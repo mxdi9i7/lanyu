@@ -44,6 +44,12 @@
 				  	<a href="runway4.php" class="waves-effect waves-gray btn-large white black-text">See more</a>
 				</div>
 			</div>
+			<div class="carousel-left">
+				<i class="fa fa-angle-left fa-5x" id="backward-carousel"></i>
+			</div>
+			<div class="carousel-right">
+				<i class="fa fa-angle-right fa-5x" id="test1"></i>
+			</div>
 		</div>
 </section>
 <?php

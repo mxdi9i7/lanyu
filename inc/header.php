@@ -14,6 +14,7 @@
     <link rel="stylesheet" type="text/css" href="../css/carousel.css">
     <link rel="stylesheet" type="text/css" href="../css/about.css">
     <link rel="stylesheet" type="text/css" href="../css/visit.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body id="body" class="animated fadeIn">
   <nav>
@@ -24,11 +25,12 @@
         <li class="dropdown-link">
           <a href="#">Runway</a>
             <div class="dropdown-button-runway" id="dropdown1">
-              <a href="runway1.php">Ready-to-Wear <br> S/S2017</a>
-              <a href="runway2.php">Gisailes <br> S/S2017</a>
+              <a href="runway1.php">Ready-to-wear <br> SS2017</a>
+              <a href="runway2.php">More Collections</a>
+<!--          <a href="runway2.php">Gisailes <br> S/S2017</a>
               <a href="runway3.php">Zodiac <br> S/S2017</a>
               <a href="runway4.php">Vintage <br> F/W2016</a>
-              <a href="runway5.php">Dream <br> F/W2016</a>
+              <a href="runway5.php">Dream <br> F/W2016</a> -->
             </div>
         </li>
 
@@ -44,11 +46,12 @@
       <ul class="side-nav" id="mobile-demo">
         <li><a href="index.php" class="black-text">Home</a></li>
         <li><a href="#" class="black-text">Shop</a></li>
-        <li><a href="runway1.php" class="black-text">Ready-to-Wear S/S2017</a></li>
-        <li><a href="runway2.php" class="black-text">Gisailes S/S2017</a></li> 
+        <li><a href="runway1.php" class="black-text">Ready-to-wear S/S2017</a></li>
+        <li><a href="runway2.php">More Collections</a></li>
+<!--         <li><a href="runway2.php" class="black-text">Gisailes S/S2017</a></li> 
         <li><a href="runway3.php" class="black-text">Zodiac S/S2017</a></li>
         <li><a href="runway4.php" class="black-text">Vintage F/W2016</a></li>
-        <li><a href="runway5.php" class="black-text">Dream F/W2016</a></li>
+        <li><a href="runway5.php" class="black-text">Dream F/W2016</a></li> -->
         <li><a href="visit.php" class="black-text">Visit Us</a></li>
         <li><a href="about.php" class="black-text">About Us</a></li>
       </ul>
