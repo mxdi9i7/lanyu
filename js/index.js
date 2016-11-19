@@ -14,7 +14,13 @@ $(function() {
     $('.parallax').parallax();
 	$('.materialboxed').materialbox();
 	$('input#input_text, textarea#textarea1').characterCounter();
-
+	$('.tooltipped').click(function() {
+		  Materialize.toast('Our online store is coming soon!', 4000) // 4000 is the duration of the toast
+	});
+	$('#coming-soon').click(function() {
+		console.log('coming')
+		  Materialize.toast('Our online store is coming soon!', 4000) // 4000 is the duration of the toast
+	});
 
 	$('.index-carousel').carousel({
 		transitionDuration: 900, // fade animation duration

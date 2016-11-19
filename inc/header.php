@@ -21,9 +21,9 @@
     <div class="nav-wrapper">
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="hide-on-med-and-down nav-center">
-        <li><a href="#">Shop</a></li> 
+        <li><a href="#" class="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Coming Soon!">Shop</a></li> 
         <li class="dropdown-link">
-          <a href="#">Runway</a>
+          <a href="runway1.php">Runway</a>
             <div class="dropdown-button-runway" id="dropdown1">
               <a href="runway1.php">Ready-to-wear <br> SS2017</a>
               <a href="runway2.php">More Collections</a>
@@ -45,7 +45,7 @@
       </ul>
       <ul class="side-nav" id="mobile-demo">
         <li><a href="index.php" class="black-text">Home</a></li>
-        <li><a href="#" class="black-text">Shop</a></li>
+        <li><a href="#" class="black-text" id="coming-soon">Shop</a></li>
         <li><a href="runway1.php" class="black-text">Ready-to-wear S/S2017</a></li>
         <li><a href="runway2.php">More Collections</a></li>
 <!--         <li><a href="runway2.php" class="black-text">Gisailes S/S2017</a></li> 

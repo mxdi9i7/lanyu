@@ -17,7 +17,7 @@
 		  			<h1 class="carouselHeader">
 				  		Lanyu Couture
 				  	</h1>
-				  	<a class="waves-effect waves-gray btn-large white black-text">Shop Now</a>
+				  	<a class="btn waves-effect waves-gray btn-large white black-text" id="coming-soon" href="#">Shop Now</a>
 				</div>
 		  		<div class="carousel-head-container" data-carousel-index="2">
 		  			<h1 class="carouselHeader">

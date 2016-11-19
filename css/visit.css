@@ -1,6 +1,6 @@
 .visit-section-bg {
 	height: 50vh; width: 100%;
-	background-image: url(http://i.imgur.com/DfwzM14.jpg);
+	background-image: url(http://i.imgur.com/rYzg6C2.jpg);
 	background-position: center;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -8,6 +8,69 @@
 	-o-background-size: cover;
 	z-index: -1;
 }
+.location-container {
+	width: 65%;
+	margin: 100px auto 0px auto;
+}
+.location-container img {
+	width: 100%;
+}
+.location-overlay {
+	padding: 5% 10% 0px 10%; 
+	position: relative;
+	top: -100px;
+	width: 80%;
+	margin: 0px auto;
+	background-color: white;
+	z-index: 1;
+}
+.location-overlay h1 {
+	font-size: 2rem;
+	font-weight: 300;
+	color: #333;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+.location-overlay p.location-text {
+	text-align: center;
+	font-family: 'Roboto';
+	font-size: 16px;
+}
+.location-overlay h4 {
+	font-size: 1.3rem;
+	font-weight: 900;
+}
+.location-overlay p {
+	font-family: 'Roboto'
+	font-size: 16px;
+}
+
+@media only screen and (max-device-width: 400px) {
+	.location-container img {
+		display: none;
+	}
+	.location-container {
+		width: 80%;
+	}
+	.location-overlay .row div:first-of-type {
+		position: relative;
+		left: -30px;
+	}
+	.location-overlay .row div:nth-of-type(2) {
+		position: relative;
+		right: -20px;
+	}
+	.location-overlay {
+		padding: 10px;
+		width: 100%;
+	}
+}
+
+
+
+
+
 
 .location-group-container {
 	background-color: white;
@@ -124,29 +187,7 @@
 	text-align: center;
 	margin-top: 3px;
 }
-.location-container {
-	width: 65%;
-	margin: 100px auto;
-}
-.location-container img {
-	width: 100%;
-}
-.location-overlay {
-	padding: 30px 50px; 
-	position: relative;
-	top: -100px;
-	width: 80%;
-	margin: 0px auto;
-	background-color: white;
-	z-index: 1;
-}
-.location-overlay h1 {
-	font-size: 42px;
-	font-weight: 300;
-	color: #555;
-	text-align: center;
-	margin-top: 20px;
-}
+
 @media all and (max-width: 900px) {
 	.location-group-list li {
 		width: 100%;

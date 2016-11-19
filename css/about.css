@@ -1,3 +1,13 @@
+.about-section-bg {
+	height: 50vh; width: 100%;
+	background-image: url(http://i.imgur.com/JWMMvV8.jpg);
+	background-position: center;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	z-index: -1;
+}
 .lanyu-story-container .lanyu-story-overlay {
 	display: none;
 }
