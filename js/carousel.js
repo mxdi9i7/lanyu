@@ -45,7 +45,7 @@
 		var $thisCaller = this;
 		return  {
 			change: function(direction) {
-				if (direction != 'next' && direction != 'previous') {
+				if (direction != 'next' && direction != 'previous') { // if invalid direction
 					return $thisCaller;
 				}
 				return $thisCaller.each(function() {
