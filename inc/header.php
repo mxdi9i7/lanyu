@@ -41,7 +41,13 @@
           </a>
         </li>
         <li><a href="visit.php">Visit Us</a></li>
-        <li><a href="about.php">About Us</a></li>
+        <li class="dropdown-link2">
+          <a href="about.php">Learn More</a>
+            <div class="dropdown-button-press" id="dropdown2">
+              <a href="about.php">About Us</a>
+              <a href="press.php">Press</a>
+            </div>
+        </li>
       </ul>
       <ul class="side-nav" id="mobile-demo">
         <li><a href="index.php" class="black-text">Home</a></li>

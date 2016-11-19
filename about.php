@@ -23,6 +23,8 @@
   <div/>
 </section>
   <hr class="form-seperator" />
+
+  
 <?php
 	include('inc/footer.php');
 ?>

@@ -29,7 +29,12 @@ $(function() {
 		delayHeaderFade: false, // setting true makes it fade the header out, and then wait for cross-fade to start until new header animates in
 								// 	^-> this is good if your headers and action button is different between headers
 	});
-
+	$('#backward-carousel').click(function() {
+		$('.index-carousel').carousel().change('previous');
+	})
+	$('#forward-carousel').click(function() {
+		$('.index-carousel').carousel().change('next');
+	})
 	/*
 	 * call $('...').carousel().destroy() to destroy
 	 * call $('...').carousel().change('next') to go to the next slide

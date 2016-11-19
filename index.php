@@ -48,7 +48,7 @@
 				<i class="fa fa-angle-left fa-5x" id="backward-carousel"></i>
 			</div>
 			<div class="carousel-right">
-				<i class="fa fa-angle-right fa-5x" id="test1"></i>
+				<i class="fa fa-angle-right fa-5x" id="forward-carousel"></i>
 			</div>
 		</div>
 </section>
