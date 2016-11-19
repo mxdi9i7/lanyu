@@ -22,13 +22,19 @@ $(function() {
 		  Materialize.toast('Our online store is coming soon!', 4000) // 4000 is the duration of the toast
 	});
 
-	$('.index-carousel').carousel({
+	$('.index-carousel').carousel().start({
 		transitionDuration: 900, // fade animation duration
 		period: 5000, // milliseconds until next item in carousel
 		crossFadeMultiplier: 0.4, // once new item starts fading in, this decides how long to wait until old item can start fading out
 		delayHeaderFade: false, // setting true makes it fade the header out, and then wait for cross-fade to start until new header animates in
 								// 	^-> this is good if your headers and action button is different between headers
 	});
+
+	/*
+	 * call $('...').carousel().destroy() to destroy
+	 * call $('...').carousel().change('next') to go to the next slide
+	 * call $('...').carousel().change('previous') to go to the previous slide
+	 */
 
 
 	$(window).scroll(function() {
