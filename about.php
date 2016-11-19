@@ -26,4 +26,4 @@
 <?php
 	include('inc/footer.php');
 ?>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_VPio-EZSnphxO8cyXYe1jX4nX9N7eoU&callback=initMap"></script>
+<!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_VPio-EZSnphxO8cyXYe1jX4nX9N7eoU&callback=initMap"></script> -->
