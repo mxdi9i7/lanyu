@@ -9,8 +9,7 @@
     include ('inc/preloader.php');
   ?>
 <section class="runway-section">
-    <h1>Bridal Collection, 'Zodiac Constellations' at NYFW, New York</h1>
-    <h4> Spring/Summer 2017</h4>
+    <h1>Bridals S/S 2017 <br>Zodiac Constellations @ New York Fashion Week</h1>
     <div class="runway-buttons">
         <a href="runway2.php" class="btn btn-large waves-effect waves-light white black-text">Previous</a>
         <a href="runway4.php" class="btn btn-large waves-effect waves-light white black-text right">Next</a>

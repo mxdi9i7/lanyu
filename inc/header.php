@@ -26,11 +26,8 @@
           <a href="runway1.php">Runway</a>
             <div class="dropdown-button-runway" id="dropdown1">
               <a href="runway1.php">Ready-to-wear <br> SS2017</a>
+              <a href="runway3.php">Bridals<br> S/S2017</a>
               <a href="runway2.php">More Collections</a>
-<!--          <a href="runway2.php">Gisailes <br> S/S2017</a>
-              <a href="runway3.php">Zodiac <br> S/S2017</a>
-              <a href="runway4.php">Vintage <br> F/W2016</a>
-              <a href="runway5.php">Dream <br> F/W2016</a> -->
             </div>
         </li>
 
@@ -41,23 +38,20 @@
           </a>
         </li>
         <li><a href="visit.php">Visit Us</a></li>
-        <li class="dropdown-link2">
-          <a href="about.php">Learn More</a>
-            <div class="dropdown-button-press" id="dropdown2">
+        <li>
+          <a href="about.php">About Us</a>
+            <!-- <div class="dropdown-button-press" id="dropdown2">
               <a href="about.php">About Us</a>
               <a href="press.php">Press</a>
-            </div>
+            </div> -->
         </li>
       </ul>
       <ul class="side-nav" id="mobile-demo">
         <li><a href="index.php" class="black-text">Home</a></li>
         <li><a href="#" class="black-text" id="coming-soon">Shop</a></li>
         <li><a href="runway1.php" class="black-text">Ready-to-wear S/S2017</a></li>
+        <li><a href="runway3.php">Bridals<br> S/S2017</a></li>
         <li><a href="runway2.php">More Collections</a></li>
-<!--         <li><a href="runway2.php" class="black-text">Gisailes S/S2017</a></li> 
-        <li><a href="runway3.php" class="black-text">Zodiac S/S2017</a></li>
-        <li><a href="runway4.php" class="black-text">Vintage F/W2016</a></li>
-        <li><a href="runway5.php" class="black-text">Dream F/W2016</a></li> -->
         <li><a href="visit.php" class="black-text">Visit Us</a></li>
         <li><a href="about.php" class="black-text">About Us</a></li>
       </ul>

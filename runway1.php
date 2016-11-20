@@ -12,8 +12,8 @@
   ?>
 <section class="runway-section animated fadeIn animated fadeIn">
 
-	<h1>Ready-to-wear, New York</h1>
-	<h4> Spring/Summer 2017</h4>
+	<h1>Ready-to-Wear S/S 2017</h1>
+	<h4>at New York Fashion Week</h4>
     <div class="runway-buttons">
         <a href="runway5.php" class="btn btn-large waves-effect waves-light white black-text">Previous</a>
         <a href="runway2.php" class="btn btn-large waves-effect waves-light white black-text right">Next</a>

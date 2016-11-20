@@ -182,37 +182,20 @@ hr.form-seperator {
 .about-section p {
 	font-size: 2rem;
 }
-.press {
-	width: 100%;
-}
 .press h1 {
-	margin-top: 200px;
-	margin-bottom: 100px;
 	text-align: center;
 }
-.press .card {
-	width: 80%;
-	margin: 0px auto 100px auto;
+.press h4, .press h6{
+	text-align: center;
 }
-.press .card img {
-	overflow-y: hidden;
+.press div.col {
+	margin: 50px 0px;
 }
-.press .card-title {
-	font-size: 1.5rem;
+.press div.col img {
+	margin: 0px auto;
+	display: block;
 }
-.press .card-content {
-	font-size: 1rem;
-	line-height: 28px;
-}
-.press .row .col.s12 .card-action a{
-	text-transform: capitalize;
-	font-size: 1rem;
-}
-.press .row .col.s12 .card-action {
-	transition: 0.4s;
-}
-
-.press .row .col.s12 .card-action:hover {
-	background-color: #eee;
-	cursor: pointer;
+.press div.col a {
+	text-align: center;
+	display: block;
 }
