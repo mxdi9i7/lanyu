@@ -3,7 +3,7 @@
 	include('inc/header.php');
 ?>
 
-<title>Lanyu | About</title>
+<title>LANYU | About</title>
 <?php 
     include('inc/parallax.php');
  ?>

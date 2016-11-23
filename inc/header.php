@@ -50,8 +50,7 @@
         <li><a href="index.php" class="black-text">Home</a></li>
         <li><a href="#" class="black-text" id="coming-soon">Shop</a></li>
         <li><a href="runway1.php" class="black-text">Ready-to-wear S/S2017</a></li>
-        <li><a href="runway3.php">Bridals<br> S/S2017</a></li>
-        <li><a href="runway2.php">More Collections</a></li>
+        <li><a href="runway3.php" class="black-text">Bridals S/S2017</a></li>
         <li><a href="visit.php" class="black-text">Visit Us</a></li>
         <li><a href="about.php" class="black-text">About Us</a></li>
       </ul>

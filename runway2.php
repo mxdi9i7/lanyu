@@ -1,7 +1,7 @@
 <?php
 	include('inc/header.php');
 ?>
-<title>Lanyu | About</title>
+<title>LANYU | About</title>
 <?php 
     include('inc/parallax.php');
  ?>
@@ -33,15 +33,13 @@
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/COXWT3J.jpg" class="responsive-img materialboxed" width="300">
     </div>
-        <div class="col s4 m3 l2">
+    <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/jOPxpjU.jpg" class="responsive-img materialboxed" width="300">
     </div>
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/WasMtaC.jpg" class="responsive-img materialboxed" width="300">
     </div>
-    <div class="col s4 m3 l2">
-        <img src="http://i.imgur.com/1u8pohx.jpg" class="responsive-img materialboxed" width="300">
-    </div>
+
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/Fokhbpo.jpg" class="responsive-img materialboxed" width="300">
     </div>
@@ -52,6 +50,10 @@
     <div class="col s4 m3 l2">
         <img src="http://i.imgur.com/WDhe6FB.jpg" class="responsive-img materialboxed" width="300">
     </div>
+    <div class="col s4 m3 l2">
+        <img src="http://i.imgur.com/Fokhbpo.jpg" class="responsive-img materialboxed" width="300">
+    </div>
+
 </div>
     
 </div>

@@ -2,11 +2,13 @@
 	include('inc/header.php');
 ?>
 
-<title>Lanyu | Showroom</title>
+<title>LANYU | Showroom</title>
 
 <section class="visit-section">
 	<div class="visit-section-bg"></div>
 	<div class="margin-breaker"></div>
+	<h1 class="pressH1">Visit Us</h1>
+    <img class="underline-flower" src="http://www.clker.com/cliparts/B/O/R/3/j/9/white-shadow-swirl.svg">
 	<div class="location-container">
 		<img class="location-img" src="http://i.imgur.com/1mmj2eq.jpg">
 		<div class="location-overlay">
@@ -22,7 +24,7 @@
 				<div class="col s6">
 					<h4>Contact</h4>
 					<p>Email: <a href="mailto:info@lanyu.com">info@lanyu.com</a></p>
-					<p>Phone: 646-998-5956</p>
+					<p>Phone: +1 646-998-5956</p>
 				</div>
 			</div>
 		</div>

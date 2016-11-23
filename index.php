@@ -1,7 +1,7 @@
 <?php
 	include('inc/header.php');
 ?>
-<title>Lanyu | Home</title>
+<title>LANYU | Home</title>
 
 <section id="indexContent">
 	  	<div class="index-carousel">
@@ -15,7 +15,7 @@
 	  		<div class="carousel-headers">
 	  			<div class="carousel-head-container" data-carousel-index="1">
 		  			<h1 class="carouselHeader">
-				  		Lanyu Couture
+				  		LANYU Couture
 				  	</h1>
 				  	<a class="btn waves-effect waves-gray btn-large white black-text" id="coming-soon" href="#">Shop Now</a>
 				</div>
