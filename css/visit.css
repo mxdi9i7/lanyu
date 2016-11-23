@@ -1,6 +1,16 @@
 .visit-section-bg {
 	height: 50vh; width: 100%;
-	background-image: url(http://i.imgur.com/7djHnaC.jpg);
+	background-image: url(http://i.imgur.com/i7tvkI1.jpg);
+	background-position: center;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	z-index: -1;
+}
+.runway-section-bg {
+	height: 50vh; width: 100%;
+	background-image: url(http://i.imgur.com/1o0BKMl.jpg);
 	background-position: center;
 	background-size: cover;
 	-webkit-background-size: cover;

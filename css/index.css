@@ -29,6 +29,7 @@
 	color: #fff;
 }
 #body nav {
+	padding-left: 32px; 
 	height: 110px;
 	position: fixed;
 	top: 0;
