@@ -182,8 +182,15 @@ hr.form-seperator {
 .about-section p {
 	font-size: 2rem;
 }
-.press h1 {
+#body .press h1 {
 	text-align: center;
+	margin-top: 100px; 
+	font-size: 36px;
+}
+.underline-flower {
+	display: block;
+	margin: -60px auto 20px auto;
+	width: 200px;
 }
 .press h4, .press h6{
 	text-align: center;
