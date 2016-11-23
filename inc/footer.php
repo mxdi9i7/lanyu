@@ -4,8 +4,10 @@
             © 2016 LANYU Couture Inc.
             <ul class="right">
             	<li><i class="fa fa-instagram grey-text text-darken-4 "></i></li>
-            	<li><i class="fa fa-wechat grey-text text-darken-4 "></i></li>
             	<li><i class="fa fa-facebook grey-text text-darken-4 "></i></li>
+                <li><i class="fa fa-pinterest grey-text text-darken-4 "></i></li>
+                <li><i class="fa fa-weibo grey-text text-darken-4 "></i></li>
+                <li><i class="fa fa-wechat grey-text text-darken-4 "></i></li>
             </ul>
             </div>
           </div>
