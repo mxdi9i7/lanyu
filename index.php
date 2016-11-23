@@ -23,7 +23,7 @@
 		  			<h1 class="carouselHeader">
 				  		Ready to Wear <br>Spring/Summer 2017
 				  	</h1>
-				  	<a href="runway2.php" class="waves-effect waves-gray btn-large white black-text">See More</a>
+				  	<a href="runway1.php" class="waves-effect waves-gray btn-large white black-text">See More</a>
 				</div>
 				<div class="carousel-head-container" data-carousel-index="3">
 					<h1 class="carouselHeader">
