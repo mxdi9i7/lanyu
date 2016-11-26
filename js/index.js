@@ -30,7 +30,7 @@ $(function() {
 		    nav: false,
 		    lazyLoad: true,
 		    autoplay:true,
-			autoplayTimeout:4000,
+			autoplayTimeout:2000,
 			autoplayHoverPause:true,
 		    responsive:{
 		        0:{
