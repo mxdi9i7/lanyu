@@ -22,6 +22,35 @@ $(function() {
 		  Materialize.toast('Our online store is coming soon!', 4000) // 4000 is the duration of the toast
 	});
 
+		$('.owl-carousel').owlCarousel({
+		    loop:true,
+		    margin:10,
+		    center: true,
+		    stagePadding: 50,
+		    nav: false,
+		    lazyLoad: true,
+		    autoplay:true,
+			autoplayTimeout:4000,
+			autoplayHoverPause:true,
+		    responsive:{
+		        0:{
+		            items:1
+		        },
+		        600:{
+		            items:3
+		        },
+		        1000:{
+		            items:5
+		        },
+		        1300:{
+		        	items:6
+		        },
+		        1980:{
+		        	items:7
+		        }
+		    }
+		})
+
 	$('.index-carousel').carousel().start({
 		transitionDuration: 900, // fade animation duration
 		period: 5000, // milliseconds until next item in carousel
@@ -35,6 +64,9 @@ $(function() {
 	$('#forward-carousel').click(function() {
 		$('.index-carousel').carousel().change('next');
 	})
+
+
+
 	/*
 	 * call $('...').carousel().destroy() to destroy
 	 * call $('...').carousel().change('next') to go to the next slide

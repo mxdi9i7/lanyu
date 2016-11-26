@@ -1,6 +1,7 @@
 <?php
 	include('inc/header.php');
 ?>
+<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
 <title>LANYU | Contact</title>
 <!-- <div id="map"></div>
 <div id="mapOverlay">
@@ -71,16 +72,42 @@
               <h6>"“The Secret to Expanding Your Brand Globally”"</h6>
               <a class="center" href="http://www.huffingtonpost.com/entry/57ebb6fae4b07f20daa0ff5b?timestamp=1475076224690">Read More</a>
         </div>
-
-
-
-
-       
-
       </div>
   </section>
-  
+  <div class="owl-carousel">
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/GeBwiUc.jpg">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/7RIWkSc.jpg">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/2sXm8WF.jpg">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/Zh80fsg.jpg">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/oA3nEoV.jpg">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/lY2LUOz.jpg">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/VypmX1H.jpg">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/mFvLLWD.jpg">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/UKPsMa4.jpg">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/WnVO1JQ.jpg">
+      </div>
+  </div> 
 <?php
 	include('inc/footer.php');
 ?>
+<script type="text/javascript" src="js/owl.carousel.min.js"></script>
 <!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_VPio-EZSnphxO8cyXYe1jX4nX9N7eoU&callback=initMap"></script> -->
