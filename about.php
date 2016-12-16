@@ -15,7 +15,7 @@
     <button class="open-overlay">Read The LANYU Story<br />&rarr;</button>
     <div class="lanyu-story-overlay">
       <button class="close-overlay">&times;</button>
-      <div style="background-image:url('http://i.imgur.com/ZSBIXTF.jpg');"></div>
+      <div style="background-image:url('https://cdn.shopify.com/s/files/1/1576/5327/files/2016_Lanyu0376-Edit.jpg?2574409901931215660');"></div>
       <p>
         In 2005, she formed LANYU Studio's in Beijing. In 2006, Lan Yu won the award for <b>'Best Minority Style Evening Wear'</b>. In 2008, LANYU Studios was acquired by Chinatex Corporation with Lan Yu remaining as Creative Director while studying in New York. Lan Yu returned to China in 2009 and in September of that year retook control and ownership of LANYU Studios. The same year she was voted as one of <b>'China's Top 10 Designers'</b> by the China Designers Association as well as the <b>'Designer with the Highest Media Attention'</b>. In 2012, Lan Yu was again voted the <b>'Designer with the Highest Media Attention'</b> and <b>'Asia's Most Influential Designer (Fashion Category) at the Asian Fashion Awards'</b>. In the same year she was also awarded <b>'The Star's Favourite Designer'</b> by COSMOBride China. In 2013, MSN awarded Lan Yu with <b>'China's Most Influential Designer'</b>. IN 2013 Lan Yu was listed in Forbes China's list of <b>2014 Forbes China 30 Under 30: Rising Stars Of Entrepreneurism In China</b>
         <br /><br /> 
@@ -102,6 +102,9 @@
       </div>
       <div class="item">
           <img class="owl-lazy responsive-img" data-src="http://i.imgur.com/WnVO1JQ.jpg">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="https://cdn.shopify.com/s/files/1/1576/5327/files/LADY_GAGA.jpg?5286120527163750966">
       </div>
   </div> 
 <?php
