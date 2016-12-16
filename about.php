@@ -57,7 +57,7 @@
         <div class="col s12 m6 l6">
               <img src="http://i.imgur.com/C5I6oEg.png" height="40">
               <h4>Daily Mail: </h4>
-              <h6>"All that glitters: Kim Kardashian looks immaculate in floor-length <br>chainmail gown with flesh-coloured sheath"</h6>
+              <h6>"All that glitters: Kim Kardashian looks <br>immaculate in floor-length chainmail <br>gown with flesh-coloured sheath"</h6>
               <a class="center" href="http://www.dailymail.co.uk/tvshowbiz/article-3595595/Kim-Kardashian-looks-immaculate-chainmail-gown-steals-Cannes-jewellery-bash.html">Read More</a>
         </div>
         <div class="col s12 m6 l6">
