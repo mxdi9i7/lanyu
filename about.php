@@ -34,8 +34,7 @@
           <img src="http://i.imgur.com/ffE0N5g.png" height="70">
           <h4>NBC News:</h4>
           <h6>"At New York Fashion Week Debut, Lan Yu Is Changing ‘Made in China"</h6>
-          <a class="center" href="http://www.nbcnews.com/news/asian-america/new-york-fashion-week-debut-lan-yu-changing-made-china-n646956
-">Read More</a>
+          <a class="center" href="http://www.nbcnews.com/news/asian-america/new-york-fashion-week-debut-lan-yu-changing-made-china-n646956">Read More</a>
         </div>
         <div class="col s12 m6 l6">
             <img src="http://i.imgur.com/lfSHS3B.png" height="70">
@@ -52,8 +51,6 @@
         <div class="col s12 m6 l6">
               <img src="http://i.imgur.com/FvEH10m.png" height="50">
               <h4>Forbes:</h4>
-              <h6>Chinese Fashion Designer Lan Yu On Why 'Made In China' Will Succeed In Going Global</h6>
-              <a class="center" href="http://www.huffingtonpost.com/entry/trusting-your-intuition-in-business_us_58003345e4b0f42ad3d25ea1">Read More</a>
               <h6>"“The Secret to Expanding Your Brand Globally”"</h6>
               <a class="center" href="http://www.forbes.com/sites/ellensheng/2016/10/26/chinese-fashion-designer-lan-yu-on-why-made-in-china-will-succeed-in-going-global/#cba72a612c31">Read More</a>
         </div> 
