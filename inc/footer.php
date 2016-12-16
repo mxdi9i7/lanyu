@@ -3,11 +3,11 @@
             <div class="container grey-text text-darken-4">
             © 2016 LANYU Couture Inc.
             <ul class="right">
-            	<li><i class="fa fa-instagram grey-text text-darken-4 "></i></li>
-            	<li><i class="fa fa-facebook grey-text text-darken-4 "></i></li>
-                <li><i class="fa fa-pinterest grey-text text-darken-4 "></i></li>
-                <li><i class="fa fa-weibo grey-text text-darken-4 "></i></li>
-                <li><i class="fa fa-wechat grey-text text-darken-4 "></i></li>
+            	<li><a href="https://www.instagram.com/lanyucoutureofficial/"><i class="fa fa-instagram grey-text text-darken-4"></i></a></li>
+            	<li><a href="https://www.facebook.com/lanyuofficial/?fref=ts&ref=br_tf"><i class="fa fa-facebook grey-text text-darken-4"></i></a></li>
+                <!-- <li><a href=""><i class="fa fa-pinterest grey-text text-darken-4"></i></a></li> -->
+                <li><a href="http://weibo.com/u/1656565920?topnav=1&wvr=6&topsug=1&is_hot=1"><i class="fa fa-weibo grey-text text-darken-4"></i></a></li>
+                <!-- <li><a href=""><i class="fa fa-wechat grey-text text-darken-4"></i></a></li> -->
             </ul>
             </div>
           </div>
