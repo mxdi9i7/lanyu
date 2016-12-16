@@ -60,9 +60,8 @@
               <h6>"All that glitters: Kim Kardashian looks immaculate in floor-length <br>chainmail gown with flesh-coloured sheath"</h6>
               <a class="center" href="http://www.dailymail.co.uk/tvshowbiz/article-3595595/Kim-Kardashian-looks-immaculate-chainmail-gown-steals-Cannes-jewellery-bash.html">Read More</a>
         </div>
-        
         <div class="col s12 m6 l6">
-              <img src="http://i.imgur.com/Sb9ekOT.png" height="70">
+              <img src="http://i.imgur.com/Sb9ekOT.png" height="50">
               <h4>The Huffington Post:</h4>
               <h6>"Trusting your intuition in Business"</h6>
               <a class="center" href="http://www.huffingtonpost.com/entry/trusting-your-intuition-in-business_us_58003345e4b0f42ad3d25ea1">Read More</a>
