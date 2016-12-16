@@ -25,8 +25,8 @@
         <li class="dropdown-link">
           <a href="runway1.php">Runway</a>
             <div class="dropdown-button-runway" id="dropdown1">
-              <a href="runway1.php">Ready-to-wear <br> SS2017</a>
-              <a href="runway3.php">Bridals<br> S/S2017</a>
+              <a href="runway1.php">SS 2017 RTW</a>
+              <a href="runway3.php">SS 2017 Bridals</a>
               <a href="runway2.php">More Collections</a>
             </div>
         </li>
