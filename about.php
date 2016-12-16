@@ -8,6 +8,8 @@
 </div>-->
 <div class="about-section-bg"></div>
 <section class="about-section">
+  <h1>Our Story</h1>
+    <img class="underline-flower" src="http://www.clker.com/cliparts/B/O/R/3/j/9/white-shadow-swirl.svg">
   <div class="lanyu-story-container">
     <div class="lanyu-story-bg" style="background-image:url('http://i.imgur.com/TnaDPjs.jpg')"></div>
     <button class="open-overlay">Read The LANYU Story<br />&rarr;</button>
