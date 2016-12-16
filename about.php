@@ -43,7 +43,7 @@
             <a class="center" href="http://www.harpersbazaar.com.au/runway-report/the-front-row/2016/9/best-dressed-front-row-nyfw/the-best-dressed-from-the-front-row-at-new-york-fashion-week-image-49/ ">Read More</a>
         </div>  
         <div class="col s12 m6 l6">
-            <img src="http://i.imgur.com/hiXPObK.jpg" height="70">
+            <img src="http://i.imgur.com/hiXPObK.jpg" height="50">
             <h4>WhoWhatWear:</h4>
             <h6>"Whitney Port and Olivia Palermo Took the Most Stylish Photo at NYFW"</h6>
             <a class="center" href="http://www.whowhatwear.com/olivia-palermo-whitney-port-photo-nyfw?ps=home">Read More</a>
@@ -51,17 +51,17 @@
         <div class="col s12 m6 l6">
               <img src="http://i.imgur.com/FvEH10m.png" height="50">
               <h4>Forbes:</h4>
-              <h6>"“The Secret to Expanding Your Brand Globally”"</h6>
+              <h6>"Chinese fashion designer Lanyu on why made  in China will succeed in going global"</h6>
               <a class="center" href="http://www.forbes.com/sites/ellensheng/2016/10/26/chinese-fashion-designer-lan-yu-on-why-made-in-china-will-succeed-in-going-global/#cba72a612c31">Read More</a>
         </div> 
         <div class="col s12 m6 l6">
               <img src="http://i.imgur.com/C5I6oEg.png" height="40">
               <h4>Daily Mail: </h4>
-              <h6>"All that glitters: Kim Kardashian looks <br>immaculate in floor-length chainmail <br>gown with flesh-coloured sheath"</h6>
+              <h6>"All that glitters: Kim Kardashian looks immaculate in floor-length <br>chainmail gown with flesh-coloured sheath"</h6>
               <a class="center" href="http://www.dailymail.co.uk/tvshowbiz/article-3595595/Kim-Kardashian-looks-immaculate-chainmail-gown-steals-Cannes-jewellery-bash.html">Read More</a>
         </div>
         <div class="col s12 m6 l6">
-              <img src="http://i.imgur.com/Sb9ekOT.png" height="50">
+              <img src="http://i.imgur.com/Sb9ekOT.png" height="70">
               <h4>The Huffington Post:</h4>
               <h6>"Trusting your intuition in Business"</h6>
               <a class="center" href="http://www.huffingtonpost.com/entry/trusting-your-intuition-in-business_us_58003345e4b0f42ad3d25ea1">Read More</a>
