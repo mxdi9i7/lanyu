@@ -96,31 +96,31 @@
 	</div>
 	  <div class="row contactForm">
   	<h1>Say Hello</h1>
-    <form class="col s12">
+    <form class="col s12" action="contact.php" method="POST">
       <div class="row">
         <div class="input-field col l6 m6 s12">
           <i class="material-icons prefix">account_circle</i>
-          <input id="icon_prefix" type="text" class="validate" name="html_fname">
+          <input id="icon_prefix" type="text" class="validate" name="fname">
           <label for="icon_prefix">First Name</label>
         </div>
         <div class="input-field col l6 m6 s12">
           <i class="material-icons prefix">account_circle</i>
-          <input id="icon_prefix" type="text" class="validate" name="html_lname">
+          <input id="icon_prefix" type="text" class="validate" name="lname">
           <label for="icon_prefix">Last Name</label>
         </div>
         <div class="input-field col l12 m12 s12">
           <i class="material-icons prefix">phone</i>
-          <input id="icon_prefix" type="tel" class="validate" name="html_phone">
+          <input id="icon_prefix" type="tel" class="validate" name="phone">
           <label for="icon_prefix">Phone Number</label>
         </div>
         <div class="input-field col l12 m12 s12">
           <i class="material-icons prefix">email</i>
-          <input id="icon_prefix" type="email" class="validate" name="html_email">
+          <input id="icon_prefix" type="email" class="validate" name="email">
           <label for="icon_prefix">Email</label>
         </div>
         <div class="input-field col l12 m12 s12">
         	<i class="material-icons prefix">message</i>
-            <textarea id="textarea1" class="materialize-textarea" length="120" name="html_message"></textarea>
+            <textarea id="textarea1" class="materialize-textarea" length="120" name="message"></textarea>
             <label for="textarea1">Message</label>
         </div>
       </div>
