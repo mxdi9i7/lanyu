@@ -29,7 +29,7 @@
       </div>
       <div class="col s12 m12 l8">
         <p>
-            Found in 2005, LANYU is the namesake brand of the internationally recognized Chinese-born designer, Lan Yu. Lan's design often incorporates Su embroidery, a traditional technique that has been handed down for generations in the designer's family and is best known for its elegance intricary and photorealistic quality.
+            LANYU is the namesake brand of China’s premiere luxury designer Lan Yu. Lan Yu’s design often incorporates Su embroidery - a traditional technique that has been handed down for generations in the designer’s family and is best known forits elegance, intricacy and photorealistic quality.             LANYU was founded in 2005 and has offices in Beijing, Shanghai, Paris and New York.
         </p>
        <!--  <p>
             In 2005, she formed LANYU Studio's in Beijing. In 2006, Lan Yu won the award for <b>'Best Minority Style Evening Wear'</b>. In 2008, LANYU Studios was acquired by Chinatex Corporation with Lan Yu remaining as Creative Director while studying in New York. Lan Yu returned to China in 2009 and in September of that year retook control and ownership of LANYU Studios. The same year she was voted as one of <b>'China's Top 10 Designers'</b> by the China Designers Association as well as the <b>'Designer with the Highest Media Attention'</b>
@@ -121,6 +121,12 @@
       </div>
       <div class="item">
           <img class="owl-lazy responsive-img" data-src="https://cdn.shopify.com/s/files/1/1576/5327/files/LADY_GAGA.jpg?5286120527163750966">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="https://cdn.shopify.com/s/files/1/1576/5327/files/dfd9e297a3f3d39bedda30c15d1c86e3.jpg?269039433884274170">
+      </div>
+      <div class="item">
+          <img class="owl-lazy responsive-img" data-src="https://cdn.shopify.com/s/files/1/1576/5327/files/2933d06fc77ef32d214b6575267c729f.jpg?269039433884274170">
       </div>
   </div> 
 <?php
