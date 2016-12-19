@@ -25,7 +25,7 @@
   <div/> -->
   <div class="row lanyu-story-col">
       <div class="col s12 m12 l4">
-        <img src="https://cdn.shopify.com/s/files/1/1576/5327/files/WechatIMG32.jpeg?9721070471018340277">
+        <img src="https://cdn.shopify.com/s/files/1/1576/5327/files/lanyu.jpg?928063821679246104">
       </div>
       <div class="col s12 m12 l8">
         <p>
