@@ -1,8 +1,9 @@
 .about-section-bg {
 	height: 50vh; width: 100%;
-	background-image: url(http://i.imgur.com/1o0BKMl.jpg);
-	background-position: center;
+	background-image: url(https://cdn.shopify.com/s/files/1/1576/5327/files/WechatIMG33.jpeg?17669110221979612883);
+	background-position: center 75%;
 	background-size: cover;
+	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
