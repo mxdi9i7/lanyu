@@ -29,13 +29,13 @@
       </div>
       <div class="col s12 m12 l8">
         <p>
-            LANYU is the namesake brand of the internationally recognized Chinese-born designer, Lan Yu. Lan's design often incorporates Su embroidery, a traditional technique that has been handed down for generations in the designer's family and is best known for its elegance intricary and photorealistic quality.
+            Found in 2005, LANYU is the namesake brand of the internationally recognized Chinese-born designer, Lan Yu. Lan's design often incorporates Su embroidery, a traditional technique that has been handed down for generations in the designer's family and is best known for its elegance intricary and photorealistic quality.
         </p>
-        <p>
+       <!--  <p>
             In 2005, she formed LANYU Studio's in Beijing. In 2006, Lan Yu won the award for <b>'Best Minority Style Evening Wear'</b>. In 2008, LANYU Studios was acquired by Chinatex Corporation with Lan Yu remaining as Creative Director while studying in New York. Lan Yu returned to China in 2009 and in September of that year retook control and ownership of LANYU Studios. The same year she was voted as one of <b>'China's Top 10 Designers'</b> by the China Designers Association as well as the <b>'Designer with the Highest Media Attention'</b>
         </p>
         <p> In 2012, Lan Yu was again voted the <b>'Designer with the Highest Media Attention'</b> and <b>'Asia's Most Influential Designer (Fashion Category) at the Asian Fashion Awards'</b>. In the same year she was also awarded <b>'The Star's Favourite Designer'</b> by COSMOBride China. In 2013, MSN awarded Lan Yu with <b>'China's Most Influential Designer'</b>. IN 2013 Lan Yu was listed in Forbes China's list of <b>2014 Forbes China 30 Under 30: Rising Stars Of Entrepreneurism In China</b>
-        </p>
+        </p> -->
        
       </div>
   </div>

@@ -1,7 +1,7 @@
 .about-section-bg {
 	height: 50vh; width: 100%;
-	background-image: url(https://cdn.shopify.com/s/files/1/1576/5327/files/WechatIMG33.jpeg?17669110221979612883);
-	background-position: center 75%;
+	background-image: url(https://cdn.shopify.com/s/files/1/1576/5327/files/Header.jpg?9742521711123498435);
+	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
@@ -180,7 +180,7 @@ hr.form-seperator {
 	font-size: 36px;
 }
 .about-section p {
-	font-size: 1.5rem;
+	font-size: 1.1rem;
 }
 #body .press h1 {
 	text-align: center;
