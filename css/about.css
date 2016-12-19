@@ -83,9 +83,9 @@
 	position: fixed;
 	top: 0; left: 0;
 	height: 100%; width: 100%;
-	padding: 48px 60px;
+	padding: 48px 160px 48px 30%;
 	z-index: 999;
-	background-color: rgba(255,255,255, 0.9);
+	background-color: rgba(255,255,255, 1);
 	overflow: auto;
 
 	-webkit-box-sizing: border-box;
@@ -107,7 +107,7 @@
 }
 
 .lanyu-story-overlay div {
-	width: 110px;
+	width: 30%;
 	height: 100%;
 	position: fixed;
 	left: 0; top: 0;
@@ -179,7 +179,7 @@ hr.form-seperator {
 	font-size: 36px;
 }
 .about-section p {
-	font-size: 2rem;
+	font-size: 1.5rem;
 }
 #body .press h1 {
 	text-align: center;
@@ -212,4 +212,16 @@ hr.form-seperator {
 }
 #body .owl-carousel {
 	margin-bottom: 50px;
+}
+.lanyu-story-col.row {
+	font-size: 14px;
+}
+.lanyu-story-col.row .col.l8 {
+	padding: 0px 5%;
+}
+.lanyu-story-col .col.l4 {
+	padding-left: 5%; 
+}
+.lanyu-story-col.row img {
+	max-width: 100%;
 }
